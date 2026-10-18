@@ -33,4 +33,3 @@ References
 5.	S. D. Mohanty, IFODATACOND, bandId branch.
 6.	GWOSC, https://gwosc.org
 
-<img width="468" height="655" alt="image" src="https://github.com/user-attachments/assets/d6487acc-1481-400a-95b2-248ab38a81b1" />
